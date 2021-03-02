@@ -1,4 +1,8 @@
 # LDA, NCC, Perceptron
 Lab from ML course (March 2020), where nearest centroid classifier and linear discriminant analysis were compared. Also, perceptron and NCC were examined.
 
-<embed src="lda_vs_ncc/ncc-lda-comparison.pdf" width="50%" height="30%" type="application/pdf">
+<object data="lda_vs_ncc/ncc-lda-comparison.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="lda_vs_ncc/ncc-lda-comparison.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="lda_vs_ncc/ncc-lda-comparison.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
